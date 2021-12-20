@@ -1,9 +1,9 @@
 # About Me
 
 ```
->> 👩‍💼 Hi, I’m XueMei-Lin (You can call me Lilia)
+>> 👩‍💼 Hi, I’m XueMei-Lin
 >> 🇨🇳 I am from China and I am living Spain.
->> 👩‍🎓 I am studying computer engineering
->> 🖥 I am learning c, c++, Java, TypeScript, Node.js
+>> 👩‍🎓 I am studying computer engineering in Unversity of La Laguna
+>> 🖥 I am learning c, c++, Java, TypeScript, Node.js, Html5, Css
 >> 📫 Contact me by email: alu0101225845@ull.edu.es
 ```
